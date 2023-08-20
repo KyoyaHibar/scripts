@@ -1,7 +1,7 @@
 assert(rconsoleprint ~= nil, "your exploit doesnt have rconsoleprint")
 
 if import then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/zzerexx/scripts/main/SynapseToScriptWare.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/KyoyaHibar/scripts/main/SynapseToScriptWare.lua"))()
 end
 
 local uis = game:GetService("UserInputService")
